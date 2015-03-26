@@ -27,12 +27,27 @@
     margin-bottom: 0;
 }
 
+body {
+    padding-bottom: 20px;
+}
+
 @media print {
     a:link:after, a:visited:after {
         content: "";
     }
-}
 
-body {
-    padding-bottom: 20px;
+    .left-column {
+        width: 25%;
+        float: left;
+    }
+
+    .right-column {
+        width: 75%;
+        float: right;
+    }
+
+    /* The only way I can get the print to fit on one page */
+    html, body {
+        height: 99%;
+    }
 }
