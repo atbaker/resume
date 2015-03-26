@@ -8,6 +8,7 @@ s3_bucket: atbaker.me
 site: .
 
 redirects:
+  pdf: https://atbaker.me/Andrew%20Tork%20Baker%20-%20Resume.pdf
   silent: http://andrewtorkbaker.com/silent-grateful-majority
   hypermasher: http://andrewtorkbaker.com/hypermasher
   webcast: http://www.oreilly.com/pub/e/3309

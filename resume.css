@@ -46,6 +46,10 @@ body {
         float: right;
     }
 
+    .download-link {
+        display: none;
+    }
+
     /* The only way I can get the print to fit on one page */
     html, body {
         height: 99%;
