@@ -1,0 +1,27 @@
+.name {
+    margin-top: 0;
+}
+
+.titles {
+    margin-bottom: 10px;
+}
+
+.first-section {
+    margin-top: 11px;
+}
+
+.right-column p, .right-column li {
+    font-size: 11px;
+}
+
+.right-column p {
+    margin-bottom: 4px;
+}
+
+.right-column h4 {
+    margin-bottom: 6px;
+}
+
+.tight-paragraphs p {
+    margin-bottom: 0;
+}
