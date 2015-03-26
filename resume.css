@@ -6,11 +6,7 @@
     margin-bottom: 10px;
 }
 
-.first-section {
-    margin-top: 11px;
-}
-
-.right-column p, .right-column li {
+.small-text p, .small-text li {
     font-size: 11px;
 }
 
@@ -22,6 +18,20 @@
     margin-bottom: 6px;
 }
 
+.right-column h3 {
+    margin-top: 11px;
+}
+
 .tight-paragraphs p {
     margin-bottom: 0;
+}
+
+@media print {
+    a:link:after, a:visited:after {
+        content: "";
+    }
+}
+
+body {
+    margin-bottom: 20px;
 }
