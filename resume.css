@@ -6,10 +6,6 @@
     margin-bottom: 10px;
 }
 
-.small-text p, .small-text li {
-    font-size: 11px;
-}
-
 .right-column p {
     margin-bottom: 4px;
 }
@@ -34,6 +30,10 @@ body {
 @media print {
     a:link:after, a:visited:after {
         content: "";
+    }
+
+    .small-text p, .small-text li {
+        font-size: 11px;
     }
 
     .left-column {
