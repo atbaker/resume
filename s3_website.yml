@@ -20,7 +20,7 @@ redirects:
   video: http://shop.oreilly.com/product/0636920035732.do
   ph: https://www.producthunt.com/posts/hypermasher
   hn: https://news.ycombinator.com/item?id=8309848
-  tweet: http://slides.com/atbaker/trackmaven-monthly-challenge-demo-tweetcheck-ionic-app
+  tweet: https://github.com/atbaker/tweetcheck
   spin: https://github.com/atbaker/spin-docker
   wiki: https://github.com/atbaker/wikitrivia
   dd: http://www.meetup.com/django-district/
