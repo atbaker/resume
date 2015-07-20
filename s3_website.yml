@@ -25,6 +25,10 @@ redirects:
   wiki: https://github.com/atbaker/wikitrivia
   dd: http://www.meetup.com/django-district/
 
+  # Other handy redirects
+  twilio: https://boards.greenhouse.io/twilio/jobs/78722
+  tutorial: https://www.twilio.com/docs/howto/walkthrough/appointment-reminders/python/django
+
 exclude_from_upload:
   - .git
   - .bowerrc
